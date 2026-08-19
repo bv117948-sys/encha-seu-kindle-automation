@@ -1,0 +1,27 @@
+# Sessao Amazon / credenciais
+auth.json
+
+# Dados gerados durante as execucoes
+dados_execucao/
+livros_gratis.json
+progresso_execucao.json
+relatorio_execucao.json
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Variaveis de ambiente
+.env
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
