@@ -25,7 +25,7 @@ NOME_EVENTO = "livros_kindle"
 # Fora do periodo do evento, deixe vazio:
 #
 # URL_EVENTO = ""
-
+# link abaixo apenas para testes
 URL_EVENTO = "https://www.amazon.com.br/s?k=ebooks+gratis+hoje&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss"
 
 
@@ -37,8 +37,7 @@ URL_EVENTO = "https://www.amazon.com.br/s?k=ebooks+gratis+hoje&__mk_pt_BR=%C3%85
 #     "https://link.amazon/OUTRO_LINK",
 # ]
 
-URLS_EXTRAS: list[str] = [
-    "https://www.amazon.com.br/s?k=ebooks+gratis+hoje&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss"]
+URLS_EXTRAS: list[str] = []
 
 
 # ============================================================
